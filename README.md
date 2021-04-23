@@ -13,9 +13,9 @@
 ## Description
 A workout/fitness tracker to log separate exercises within a workout and display the data results
 
-![Screenshot 1](/public/images/screenshot1.png)
+![Screenshot 1](./images/screenshot1.PNG)
 
-![Screenshot 2](/public/images/screenshot2.png)
+![Screenshot 2](./images/screenshot2.PNG)
 
 ## Installation Instructions
 
